@@ -1,0 +1,6 @@
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\bin\Debug\TCP_Flood_Reg.exe.config
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\bin\Debug\TCP_Flood_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\bin\Debug\TCP_Flood_Reg.pdb
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\obj\Debug\TCP_Flood_Reg.csprojResolveAssemblyReference.cache
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\obj\Debug\TCP_Flood_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\obj\Debug\TCP_Flood_Reg.pdb

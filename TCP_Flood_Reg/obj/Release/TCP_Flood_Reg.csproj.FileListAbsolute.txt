@@ -1,0 +1,5 @@
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\bin\Release\TCP_Flood_Reg.exe.config
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\bin\Release\TCP_Flood_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\bin\Release\TCP_Flood_Reg.pdb
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\obj\Release\TCP_Flood_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\TCP_Flood_Reg\TCP_Flood_Reg\obj\Release\TCP_Flood_Reg.pdb
